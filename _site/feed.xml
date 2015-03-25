@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 25 Mar 2015 12:35:20 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Mar 2015 12:35:20 +0000</lastBuildDate>
+    <title>OpSec for Journalists</title>
+    <description>&quot;Journalism is publishing what someone else doesn&#39;t want published; all the rest is public relations.&quot;
+--George Orwell</description>
+    <link>https://opsec.press/</link>
+    <atom:link href="https://opsec.press/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 25 Mar 2015 12:59:46 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 12:59:46 +0000</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -26,8 +27,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Wed, 25 Mar 2015 12:34:40 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/03/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/03/25/welcome-to-jekyll/</guid>
+        <link>https://opsec.press/jekyll/update/2015/03/25/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">https://opsec.press/jekyll/update/2015/03/25/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>

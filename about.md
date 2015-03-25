@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The printing press created journalism. But the printing press is obsolete, and if we aren't careful, so will be journalism.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Our job as journalists is to check government and corporate power. But in a mass surveillance state, how do you defend yourself--and your sources--from people who will do anything to stop you from publishing?
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+opsec.press is your guide to counter-surveillance for journalists.
