@@ -18,7 +18,7 @@ His wife and kids had already left for work and school respectively. Must have h
 
 Plenty of time to make it to court and put that scumbag in jail where he belonged. When the American people found out what the--
 
-His phone rang. Oh, right. That asshole again. No, there would be no plea bargain. He scowled. Let the bastard wait. He took a large satisfying bite of toast, savoring the bitter marmalade, and answered on the fifth ring.
+His phone rang. *Oh, right. That asshole again.* No, there would be no plea bargain. He scowled. *Let the bastard wait.* He took a large satisfying bite of toast, savoring the bitter marmalade, and answered on the fifth ring.
 
 "DNI Ferver," he said, chewing around a mouthful of food. "What can I do for you."
 
@@ -64,7 +64,7 @@ A pause, then, "Request denied."
 
 Mannis stiffened his chair. There would be hell to pay when he was finished with them. This was precisely why the police had given an override! How dare they!
 
-He fumed all the way to court, but when he found his deputy pleading for a continuance. He snuck into the courtroom, hoping to go unnoticed, but the judged boomed, "Special Prosecutor Mannis, how delightful that you chose to grace us with your presence this fine morning."
+He fumed all the way to court, only to find his deputy pleading for a continuance. He snuck into the courtroom, hoping to go unnoticed, but the judged boomed, "Special Prosecutor Mannis, how delightful that you chose to grace us with your presence this fine morning."
 
 "Apologies, Your Honor, a computer glitch--"
 
@@ -78,7 +78,7 @@ Mannis slid into the empty seat.
 
 "A glitch? What do you mean, 'a glitch'?"
 
-The gavel banged and Mannis exploded from court, jaw rigid, shoulders hunched low like the All American wrestler he'd been at Yale. His heart tick-tick-ticked, keeping a steady beat, the only part of him that was calm.
+The gavel banged and Mannis exploded from court, jaw rigid, shoulders hunched low like the All-American wrestler he'd been at Yale. His heart tick-tick-ticked, keeping a steady beat, the only part of him that was calm.
 
 On the courthouse steps, the DNI stepped on Mannis's toe.
 
@@ -88,51 +88,51 @@ Ferver gazed up at the gathering clouds and pursed his warty lips. "In ancient t
 
 "Spare me the history lesson."
 
-A claw on his sleeve. "For the gods of Mt Olympus were fickle and rash, and a thunderbolt from Zeus enough to strike down the most worthy of men."
+A claw on his sleeve. "For the gods of Mount Olympus were fickle and rash, and a thunderbolt from Zeus enough to strike down the most worthy of men."
 
 Mannis pried the man's fingers from his elbow with a thumb still strong after thirty years of lawyering. "Good thing we don't live in ancient Greece, then, isn't it?"
 
 A smile slit the porcine mass of wrinkles. "What makes you think we don't?"
 
-Slumped into the orthopedic chair of a passing Tuber, Mannis realized he'd been hacked. Glitch, my ass. He knew such things were possible, of course, but--what? Was he just naive? He didn't get where he was today by being a wide-eyed ingenue. He'd lefet his share of bodies in his wake. Backstabbing was par for the course in DC. But this...
+Slumped into the seat of a passing Tuber, Mannis realized he'd been hacked. *Glitch, my ass.* He knew such things were possible, of course, but--what? Was he just naive? He didn't get where he was today by being a wide-eyed ingenue. He'd left his share of bodies in his wake. Backstabbing was par for the course in DC. But this...
 
 If the DNI had hacked his alarm clock and phone, what else had he hacked--or could he hack? A shot across the bow, he realized.
 
-His teeth ground together, caught himself. What did the doctor say about stress? He took a deep breath, forced himself to relax. Failed.  See this thing through to its conclusion. Bring the whole house of cards tumbling down. Expose the rotten core. The only way to heal the patient was to kill the cancer. Then he could relax. Then he could retire. Not before.
+He ground his teeth together, caught himself. *What did the doctor say about stress?* He took a deep breath, forced himself to relax. Failed. *See this thing through to its conclusion. Bring the whole house of cards tumbling down. Expose the rotten core.* The only way to heal the patient was to kill the cancer. Then he could relax. Then he could retire. Not before.
 
 "Bring it on," he whispered to himself.
 
 The Tuber slowed to a halt outside his house.
 
-"Have a good evening, Mr. Mannis," the voice chirped, and darted away from the curb while he was still getting out of the car, dumping him flat on his nose.
+"Have a good evening, Mr. Mannis," the voice chirped, and darted away from the curb while he was still getting out of the car, dumping him flat on his face.
 
 Mannis got up, brushed himself off. "So that's how it's going to be." Well, he'd been around the block one too many times to be intimidated by such childish pranks. Let them do their worst.
 
-Inside his wife held the kids on her lap, both of them shrieking like they had knives jammed in their eyes. Jack was nine years old and Becky two years behind. When was the last time he'd seen then like this?
+Inside his wife held the kids on her lap, both of them shrieking like they'd knives jammed in their eyes. Jack was nine and Becky two years behind. When was the last time he'd seen then like this?
 
 With a sigh, Mannis dropped his bag on the sofa. "I thought we were past the screaming stage?"
 
-His wife's designer clothes blinked on and off, revealing through now sheer, now opaque fabric her still-youthful body.
+His wife's designer clothes blinked on and off, revealing through now-sheer, now-opaque fabric her still-youthful body.
 
 "The house tried to hurt them," she said, clutching the children to her chest. "The vacuum cleaner tried to eat Jack's hand, and the toilet exploded all over Becky."
 
-Mannis listened to his heart beat one, two, three four. Then he picked up the phone.
+Mannis listened to his heart beat one, two, three, four. Then he picked up the phone.
 
 "Who are you calling? Didn't you hear me? The house just tried to--"
 
-He held out a open palm. "Mom?...yes, good. Thanks. Look, can I ask you a favor? Sarah and the kids wants to come out the farm for a visit..."
+He held out a open palm. "Mom?...yes, good. Thanks. Look, can I ask you a favor? Sarah and the kids want to come out the farm for a visit..."
 
 Sarah made a face. "We do? What are you--"
 
-"Yes," he said, raising his voice. "Maybe for a week? I was thinking they might come out tonight...right away."
+"Yes," he said, raising his voice. "Maybe for a...week? I was thinking they might come out tonight...right away."
 
 "A week?" his wife mouthed the words.
 
 "Maybe a couple. Just until...yes, this thing, until it blows...blows over. Yes. Yes. Exactly. Would you...would you mind?"
 
-When he clicked off the phone, Sarah glared at him. She and his ninety year old mom got along like two cats in a barrel.
+When he clicked off the phone, Sarah glared at him. She and his ninety-year-old mom got along like two cats in a barrel.
 
-"Get your stuff. Move now."
+"Get your stuff. Now. Move."
 
 "But what about my work? I can't just--"
 
@@ -144,19 +144,19 @@ When he clicked off the phone, Sarah glared at him. She and his ninety year old 
 
 She stood, and once again he admired her body, thirty years younger than his own. "And maybe change into something a little more...analog?"
 
-That night, after his family had gone, he sat up in bed, an untouched glass of whiskey in his hand. Hose turned off, power cut at the fuse box. Everything unplugged, just in case. He'd slip out of this head lock and slam his opponent to the mat, like he'd been doing ever since he was a college wrestling champion.
+That night, after his family had gone, he sat up in bed, an untouched glass of whiskey in his hand. House turned off, power cut at the fuse box. Everything unplugged, just in case. He was still a champion. He'd slip out of this head lock and slam his opponent to the mat, like he'd been doing ever since college.
 
 Mannis fingered the lump under his left armpit, nodded with satisfaction. He'd outlive them all, but not before--
 
 His heart skipped a beat, then another.
 
-Oh shit. Could they really--? He knew it was possible, he'd heard rumors, but--
+*Oh shit.* Could they really--? He knew it was possible, he'd heard rumors, but--
 
 The pulse returned to normal. Maybe he was imagining things. Either way...
 
-Had he made a mistake? Was he, for the first time in life, up against a stronger opponent? Maybe it was time to take a knee...if they could do that--if his sudden worry was true--
+He shifted against the pillows. *Had he made a mistake?* Was he, for the first time in life, up against a stronger opponent? Maybe it was time to take a knee...if they could do that--if his sudden worry was true--
 
-What good could he do if he was dead? Better to live to fight another day.
+*What good could he do if he was dead?* Better to live to fight another day.
 
 He gnawed his cheek. Reached for the phone.
 
@@ -164,7 +164,7 @@ He gnawed his cheek. Reached for the phone.
 
 An electric shock jolted through his body. He trembled for what seemed forever. Tasted blood.
 
-Oh God. Oh no. He had to make it stop. Had to make peace before it was too late--
+*Oh God. Oh no.* He had to make it stop. Had to make peace before it was too late--
 
 "Yes, Mr. Mannis? Who should I call?"
 
@@ -172,11 +172,15 @@ The shock came again, and again, and again, in waves of pain that seemed to cres
 
 "Are you alright, Mr Mannis?" Risi snuffled, voice no longer androgynous, but a deep piggy snuffle.
 
-The shock eased. Mannis gasped for breath, panted, "Make it stop, dear god, make it stop."
+The shock eased. Mannis gasped for breath, panted, "Make it stop, dear God, make it stop."
+
+"God?" Risi repeated. "Or do you mean...gods?"
+
+His lips flapped open, shut. "Yes, that's what I mean, yes, yes."
 
 A minute passed. Another. Mannis forced himself to relax. The doctor said to. Relax. Chill. Chill. That was all he had left. A final shot across the bow.
 
-"You've made your point," he said hoarsely. Hoping, praying--yes, praying--that someone, somewhere would hear him. "I give up. We'll do it your way. I surrender, I surrender, I--"
+"Did you hear me?" he said hoarsely. "You've made your point." Hoping, praying--yes, praying--that someone, somewhere would hear him. "I give up. We'll do it your way. I surrender, I surrender, I--"
 
 His heart stopped. He counted to ten.
 
