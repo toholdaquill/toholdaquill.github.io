@@ -44,7 +44,7 @@ He clicked off the phone, jammed his legal brief in his bag and sped for the doo
 
 "Risi, get me a Tuber!"
 
-The driverless vehicle pulled up at the curb and without breaking stride Mannis threw himself into the tailored orthopedic chair, which adjusted within seconds to fit his hefty contours. The door slid shut behind him.
+The driverless vehicle pulled up at the curb and without breaking stride Mannis threw himself into the orthopedic chair, which adjusted within seconds to fit his hefty contours. The door slid shut behind him.
 
 "Court. Fast. ETA?"
 
