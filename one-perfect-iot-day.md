@@ -2,7 +2,7 @@
 One Perfect #IoT Day
 ====================
 
-a short story by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup|) ([@toholdaquill](https://www.twitter.com/toholdaquill "@toholdaquill"))
+a short story by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup") ([@toholdaquill](https://www.twitter.com/toholdaquill "@toholdaquill"))
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
