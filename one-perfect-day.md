@@ -16,7 +16,7 @@ His wife and kids had already left for work and school respectively. Must have h
 
 Plenty of time to make it to court and put that scumbag in jail where he belonged. When the American people found out what the--
 
-His phone rang. Oh, right. That asshole again. No, there would be no plea bargain. He scowled and let the phone ring. Let the bastard wait. He took a large satisfying bite of toast, savoring the bitter marmalade, and answered on the fifth ring.
+His phone rang. Oh, right. That asshole again. No, there would be no plea bargain. He scowled. Let the bastard wait. He took a large satisfying bite of toast, savoring the bitter marmalade, and answered on the fifth ring.
 
 "DNI Ferver," he said, chewing around a mouthful of food. "What can I do for you."
 
