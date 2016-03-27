@@ -178,7 +178,7 @@ The shock eased. Mannis gasped for breath, panted, "Make it stop, dear God, make
 
 His lips flapped open, shut. "Yes, that's what I mean, yes, yes."
 
-A minute passed. Another. Mannis forced himself to relax. The doctor said to. Relax. Chill. Chill. That was all he had left. A final shot across the bow.
+A minute passed. Another. Mannis forced himself to relax. The doctor said to. Relax. Chill. *Chill.* That was all he had left. A final shot across the bow.
 
 "Did you hear me?" he said hoarsely. "You've made your point." Hoping, praying--yes, praying--that someone, somewhere would hear him. "I give up. We'll do it your way. I surrender, I surrender, I--"
 
