@@ -7,7 +7,7 @@ a short story by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup") ([@toholdaq
 ### wc: ~1700
 
 
-King of his castle, lord of his manor, master of his domain--truly, thought special prosecutor Bertoal Mannis, as he sat down to breakfast on trial day, truly that was the world we now lived in. When else in the history of humanity could a man review that day's legal brief while his smart home whirled around him, unseen robotic servants obeying his every whim, sometimes even before he expressed them out loud, sometimes before he even realized what he wanted?
+King of his castle, lord of his manor, master of his domain--truly, thought special prosecutor Bertoal Mannis, as he sat down to breakfast on trial day, truly that was the world we now lived in. When else in the history of the world could a man review that day's legal brief while his smart home whirled around him, unseen robotic servants obeying his every whim, sometimes even before he expressed them out loud, sometimes before he even realized what he wanted?
 
 "Risi," he began--
 
