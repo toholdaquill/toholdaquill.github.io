@@ -130,7 +130,7 @@ Sarah made a face. "We do? What are you--"
 
 "Maybe a couple. Just until...yes, this thing, until it blows...blows over. Yes. Yes. Exactly. Would you...would you mind?"
 
-When he clicked off the phone, Sarah glared at him. She and his ninety-year-old mom got along like two cats in a barrel.
+When he clicked off the phone, Sarah glared at him. She and his ninety-year-old mom got along about as well as a pig farmer at a PETA convention.
 
 "Get your stuff. Now. Move."
 
