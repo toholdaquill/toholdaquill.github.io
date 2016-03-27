@@ -2,8 +2,8 @@
 One Perfect #IoT Day
 ====================
 
-by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup|) ([@toholdaquill](https://www.twitter.com/toholdaquill "@toholdaquill"))
-------------------------------------------------------------------------------------------------------------------------------
+a short story by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup|) ([@toholdaquill](https://www.twitter.com/toholdaquill "@toholdaquill"))
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 King of his castle, lord of his manor, master of his domain--truly, thought special prosecutor Bertoal Mannis, as he sat down to breakfast on trial day, truly that was the world we now lived in. When else in the history of humanity could a man review that day's legal brief while his smart home whirled around him, unseen robotic servants obeying his every whim, sometimes even before he expressed them out loud, sometimes before he even realized what he wanted?
@@ -30,7 +30,7 @@ The bald, wrinkled face of America's chief spy filled the screen, warts protrudi
 
 "Why, just calling to wish you luck today," Ferver snuffled. "But I see I've caught you at breakfast."
 
-Mannis smacked his lips. "And enjoying it imensely. Now, if you'll excuse me--"
+Mannis smacked his lips. "And enjoying it immensely. Now, if you'll excuse me--"
 
 "Because everyone here at court is wondering where you are."
 
@@ -44,7 +44,7 @@ He clicked off the phone, jammed his legal brief in his bag and sped for the doo
 
 "Risi, get me a Tuber!"
 
-The driveless vehicle pulled up at the curb and without breaking stride Mannis threw himself into the tailored orthopedic chair, which adjusted within seconds to fit his slim contours. The door slid shut behind him.
+The driverless vehicle pulled up at the curb and without breaking stride Mannis threw himself into the tailored orthopedic chair, which adjusted within seconds to fit his hefty contours. The door slid shut behind him.
 
 "Court. Fast. ETA?"
 
@@ -62,9 +62,9 @@ A pause, then, "Request denied."
 
 "Request denied," the voice said again, in the same neutral tone of voice.
 
-Mannis stiffened his chair. There would be hell to pay when he was finished with them. This was precisely why he'd been given an override! How dare they!
+Mannis stiffened his chair. There would be hell to pay when he was finished with them. This was precisely why the police had given an override! How dare they!
 
-He fumed all the way to court, but when he got there the hearing was nearly over. He snuck into the courtroom, hoping to go unnoticed, but the judged boomed, "Special Prosecutor Mannis, how delightful that you chose to grace us with your presence this fine morning."
+He fumed all the way to court, but when he found his deputy pleading for a continuance. He snuck into the courtroom, hoping to go unnoticed, but the judged boomed, "Special Prosecutor Mannis, how delightful that you chose to grace us with your presence this fine morning."
 
 "Apologies, Your Honor, a computer glitch--"
 
@@ -78,7 +78,7 @@ Mannis slid into the empty seat.
 
 "A glitch? What do you mean, 'a glitch'?"
 
-Not long passed before the gavel sounded. Mannis exploded from court, jaw rigid, shoulders hunched low like the All American wrestler he'd been at Yale. His heart tick-tick-ticked, keeping a steady beat, the only part of him that was calm.
+The gavel banged and Mannis exploded from court, jaw rigid, shoulders hunched low like the All American wrestler he'd been at Yale. His heart tick-tick-ticked, keeping a steady beat, the only part of him that was calm.
 
 On the courthouse steps, the DNI stepped on Mannis's toe.
 
