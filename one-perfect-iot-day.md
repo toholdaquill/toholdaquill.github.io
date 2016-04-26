@@ -63,7 +63,7 @@ A pause, then, "Request denied."
 
 "Request denied," the voice said again, in the same neutral tone of voice.
 
-Mannis stiffened his chair. There would be hell to pay when he was finished with them. This was precisely why the police had given an override! How dare they!
+Mannis stiffened his chair. There would be hell to pay when he was finished with them. This was precisely why the police had given him an override! How dare they!
 
 He fumed all the way to court, only to find his deputy pleading for a continuance. He snuck into the courtroom, hoping to go unnoticed, but the judged boomed, "Special Prosecutor Mannis, how delightful that you chose to grace us with your presence this fine morning."
 
@@ -109,7 +109,7 @@ The Tuber slowed to a halt outside his house.
 
 Mannis got up, brushed himself off. "So that's how it's going to be." Well, he'd been around the block one too many times to be intimidated by such childish pranks. Let them do their worst.
 
-Inside his wife held the kids on her lap, both of them shrieking like they'd knives jammed in their eyes. Jack was nine and Becky two years behind. When was the last time he'd seen then like this?
+Inside his wife held the kids on her lap, both of them shrieking like they'd had knives jammed in their eyes. Jack was nine and Becky two years behind. When was the last time he'd seen then like this?
 
 With a sigh, Mannis dropped his bag on the sofa. "I thought we were past the screaming stage?"
 
