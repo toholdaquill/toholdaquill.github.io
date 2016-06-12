@@ -58,9 +58,7 @@ The Mishy-Mish looked over his yard-wide reading glasses at the Bassador. "You o
 
 "Sure do!"
 
-"Then you're good. We're tracking her everywhere she goes, we've live-miked her phone, her tablet, her laptop, plus video recording from all those webcams. Plus her car, her home IoT. We know who she talks to, what she says, what she eats, where she sleeps, who she sleeps with, and what she whispers on the potty when she passes a tough turd."
-
-Mishy-Mish leaned across the desk that stood between them. "One hint she's planning to blow something up? We'll swoop in and arrest her."
+"Then you're good. We're tracking her everywhere she goes, we've live-miked her phone, her tablet, her laptop, plus video recording from all those webcams. Plus her car, her home IoT. We know who she talks to, what she says, what she eats, where she sleeps, who she sleeps with, and what she whispers on the potty when she passes a tough turd." Mishy-Mish leaned across the desk that stood between them. "One hint she's planning to blow something up? We'll swoop in and arrest her."
 
 So saying, Mishy-Mish sat back and took a long drink from his oaken cask.
 
