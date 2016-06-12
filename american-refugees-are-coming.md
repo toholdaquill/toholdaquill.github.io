@@ -20,7 +20,7 @@ The Mishy-Mish stroked his bald head. "The Really Crummy Maple-Flavored Police a
 
 The Bassador took off his hundred-gallon cowboy hat and wiped his forehead. "Whoo-eee!" he laughed. "Freedom of speech! In Canada! I knew I could count on you, Mishy-Mash."
 
-"Mishy-/Mish,/" the Mishy-Mish corrected. "Let me show you how we're handling these American refugee terrorists. Here's one now."
+"Mishy-*Mish,*" the Mishy-Mish corrected. "Let me show you how we're handling these American refugee terrorists. Here's one now."
 
 He tapped at his laptop, spun the screen to show the dossier of a grey-haired woman smiling at the camera.
 
@@ -96,7 +96,7 @@ Both men burst out laughing till tears ran down their faces.
 
 "Well...what if he objects? Isn't he all, 'we support refugee, we love terrorists'?" Bassador pounded the desk. "Who the hell does he think he is, anyway? Acts like he's the boss around here or something."
 
-"He /is/ the prime minister of Canada," Mishy-Mish pointed out.
+"He *is* the prime minister of Canada," Mishy-Mish pointed out.
 
 "The PM reports to me, and I report to the president. Sheesh! This is basic chain of command. Did Daddy never teach him?"
 
@@ -112,7 +112,7 @@ Mishy-Mish made a face. "Apparently not. Shall I page him for you?"
 
 The Merkan eyed the spigot but waved it away. "Budget cuts, shit." He settled himself into the chair and propped his invisibly-shod feet onto the desk.
 
-Outside, shoes clattered against the hallway floor, skidded and turned, and a man burst into the room. Not just any man, though. /The/ man. The Canadian Man.
+Outside, shoes clattered against the hallway floor, skidded and turned, and a man burst into the room. Not just any man, though. *The* man. The Canadian Man.
 
 "How long till the missiles reach us?" he panted.
 
@@ -134,7 +134,7 @@ Bassador studied his fingernails, and sang, "Chain of comm-a-and..."
 
 The Canadian Man ripped open his shirt, buttons popping, to reveal a tattoo of a lumberjack that stretched from navel to nipples. "I welcome refugees to Canada."
 
-"But these are /American/ refugees!" Bassador said.
+"But these are *American* refugees!" Bassador said.
 
 "If they come fleeing political oppression, then they are welcome here in Canada." The Canadian Man straightened his shirt, adjusted his tie. "Now, if there's nothing else, I have to go elbow some boobies."
 
@@ -146,7 +146,7 @@ Bassador snapped his fingers. "Yeah, Grothoff and Porup."
 
 "Porup," the PM said. "You mean the author of the satire we're in right now?"
 
-"That's the one. Wait till you see the /their/ terroristiness scores. Porup especially."
+"That's the one. Wait till you see the *their* terroristiness scores. Porup especially."
 
 "Journalists are terorrists!" the Bassador shouted. "Even worse than these goddam refugees!"
 
