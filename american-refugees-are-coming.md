@@ -80,7 +80,7 @@ The Mishy-Mish made a rude noise, or would have, if he wasn't Canadian. "Pshaw."
 
 "Pshaw?"
 
-"I said pshaw and I mean pshaw! We've got Peace Bonds up here. Anyone gets out of line, we don't like their freedom of speech?" Mishy-Mish adjusted his four-foot wide hat. "We just blackmail a judge to make the terrorist shut up."
+"I said pshaw and I mean pshaw! We've got Peace Bonds up here. Anyone gets out of line, we don't like their freedom of speech?" Mishy-Mish crowned his polished dome with a four-foot wide hat. "We just blackmail a judge to make the terrorist shut up."
 
 "Or else?"
 
