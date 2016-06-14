@@ -66,7 +66,7 @@ Bassador made a face. "How can you drink that maple-flavored garbage?"
 
 Mishy-Mish wiped the artificially-flavored syrup from his lips. "Budget cuts. What can you do?"
 
-"Because it's not bombs we're worried about," the Bassador said, locking his hands behind his invisible trousers. "It's their tweets!"
+Bassador locked his hands behind his invisible trousers. "Because it's not bombs we're worried about," he said. "It's their tweets!"
 
 "Tweets?"
 
@@ -144,7 +144,7 @@ Bassador snapped his fingers. "Yeah, Grothoff and Porup."
 
 "Porup," the PM said. "You mean the author of the satire we're in right now?"
 
-"That's the one. Wait till you see the *their* terroristiness scores. Porup especially."
+"That's the one," Mishy-Mish said. "Wait till you see the *their* terroristiness scores. Porup especially."
 
 "Journalists are terorrists!" the Bassador shouted. "Even worse than these goddam refugees!"
 
@@ -216,7 +216,7 @@ The door closed. The wailing faded into the distance. Bassador picked at his nan
 
 Mishy-Mish patted the man's invisibly-clad knee. "Canada's your first and best colonial possession," he said. "Don't you ever doubt it."
 
-The Merkan chuckled. "Canada: American's best bitch. I like the sound of that." Then his expression grew serious. "Goddamn terrorists. What's the world coming to when you can't oppress your own people without them turning into Twitter terrorists?"
+The Merkan chuckled. "Canada: American's best bitch. I like the sound of that." Then his expression grew serious. "Goddamn terrorists. What's the world coming to when you can't oppress your own people without them complaining about it on Twitter?"
 
 "The Really Crummy Maple-Flavored Police are on it, sir," the Mishy-Mish said. "We won't let these American refugees hurt your feels with their word-bombs, not on my watch."
 
