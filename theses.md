@@ -130,7 +130,7 @@
 
 64. Making it easy and safe for whistleblowers to come forward is essential to exposing the crimes of these tyrannical, secretive organizations.
 
-65. Journalists are the last line of defense before the secret police complete their destruction of human freedom on the cyber domain,
+65. Journalists are the last line of defense before the secret police complete their destruction of human freedom on the cyber domain.
 
 66. Naming and shaming individual members of the secret police is essential to holding them accountable for their crimes. (See: [ICWatch](https://icwatch.transparencytoolkit.org/).)
 
