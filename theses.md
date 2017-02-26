@@ -4,7 +4,7 @@
 
 1. Imperfect human beings are incapable of creating perfectly-secure computers.
 
-2. Corrupt human beings will create security flaws on purposes in order to gain power over others.
+2. Corrupt human beings will create security flaws on purpose in order to gain power over others.
 
 3. Flawed computer security is primarily a political and economic problem, not a technical one.
 
