@@ -84,7 +84,7 @@
 
 42. "Big Data" is a corporate euphemism for mass surveillance.
 
-43. Humans no longer program computers. Computers program humans. [See:Will Democracy Survive Big Data and Artificial Intelligence?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/)
+43. Humans no longer program computers. Computers program humans.(See: [Will Democracy Survive Big Data and Artificial Intelligence?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/))
 
 44. To pwn is to own.
 
