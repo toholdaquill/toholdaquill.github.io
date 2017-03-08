@@ -4,7 +4,7 @@
 
 2. Corrupt human beings will create security flaws on purpose in order to gain power over others.
 
-3. Flawed computer security is a primarily political and economic problem, not a technical one.
+3. Flawed computer security is primarily a political and economic problem, not a technical one.
 
 4. The human race no longer lives "in the real world." We now live online, in the cyber domain.
 
@@ -52,7 +52,7 @@
 
 26. In the cyber domain, attack is cheap and defense expensive.
 
-27. You can prove something is insecure (by breaking something), but you can't prove something is secure.
+27. You can prove something is insecure (by breaking it), but you can't prove something is secure.
 
 28. Democracy exists when offensive military power rests in the hands of the people. (See: ancient Athens, 18th-century America.)
 
@@ -60,7 +60,7 @@
 
 30. The more people willing and able to hack, the more the state will fear the people.
 
-31. Cybersecurity talent is rare and does not scale..
+31. Cybersecurity talent is rare and does not scale.
 
 32. Software scales.
 
@@ -84,7 +84,7 @@
 
 42. "Big Data" is a corporate euphemism for mass surveillance.
 
-43. Humans no longer program computers. Computers program humans. (See: TK)
+43. Humans no longer program computers. Computers program humans. [See:Will Democracy Survive Big Data and Artificial Intelligence?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/)
 
 44. To pwn is to own.
 
@@ -182,7 +182,7 @@
 
 91. The planet is a mess. Without more innovation, civilization is doomed.
 
-92. The secret police have business policing art, literature, music, science, or technology in a democracy.
+92. The secret police have no business policing art, literature, music, science, or technology in a democracy.
 
 93. Either we are all free and secure, or we are none of us free and secure.
 
