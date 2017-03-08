@@ -76,7 +76,7 @@
 
 38. A world where only the state can hack would be a nightmare dystopia of totalitarian dictatorship.
 
-39. Any effort to improve computer security that does not address the secret police as its primary threat is doomed to serve the interests of thte secret police.
+39. Any effort to improve computer security that does not address the secret police as its primary threat is doomed to serve the interests of the secret police.
 
 40. Surveillance is not about watching. It's about interfering. It's about control.
 
