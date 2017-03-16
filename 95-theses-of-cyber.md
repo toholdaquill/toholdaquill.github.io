@@ -6,13 +6,9 @@ Cyber changes everything.
 
 "In real life" we used to "go online." No longer. The two worlds are merging. The human race has moved online, and soon "IRL" will be gone. Forever.
 
-Cyber disrupts society -- politics -- the economy. Who wins? Who loses? How will it affect your life?
+Cyber disrupts society -- politics -- the economy. Who wins? Who loses? How will it affect your life? The rules are different here. But our expectations of how the world works remain stuck in the past.
 
-The rules are different here. But our expectations of how the world works remain stuck in the past.
-
-Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness.
-
-Understand these natural laws and profit. Fail to learn these lessons at your peril.
+Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness. Understand these natural laws and profit. Fail to learn these lessons at your peril.
 
 - - - 
 
