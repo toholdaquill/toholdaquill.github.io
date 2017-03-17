@@ -3,8 +3,9 @@ layout: page
 title: 95 Theses of Cyber by J.M. Porup
 ---
 
-<h1 id="html">95 Theses of Cyber</h1>
-<h2 id="html">a no-bullshit guide to power and politics on the internet</h2>
+# 95 Theses of Cyber
+## a no-bullshit guide to power and politics on the internet
+
 
 Cyber changes everything.
 
