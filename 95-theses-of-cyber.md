@@ -3,9 +3,8 @@ layout: page
 title: 95 Theses of Cyber
 ---
 
-# 95 Theses of Cyber
-## a no-bullshit guide to power and politics on the internet
-
+<h1 id="html">95 Theses of Cyber</h1>
+<h2 id="html">a no-bullshit guide to power and politics on the internet</h2>
 
 Cyber changes everything.
 
