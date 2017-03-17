@@ -1,3 +1,8 @@
+---
+layout: page
+title: 95 Theses of Cyber
+---
+
 # 95 Theses of Cyber
 ## a no-bullshit guide to power and politics on the internet
 
