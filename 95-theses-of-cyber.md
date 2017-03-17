@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 95 Theses of Cyber
+title: 95 Theses of Cyber by J.M. Porup
 ---
 
 <h1 id="html">95 Theses of Cyber</h1>
