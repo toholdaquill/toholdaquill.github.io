@@ -19,7 +19,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 - - - 
 
-0. [everything is broken (forever)](thesis-0-everything-is-broken.html)
+0. [everything is broken (forever)](0-thesis-everything-is-broken-forever.html)
 
 1. Corrupt human beings will create security flaws on purpose in order to gain power over others.
 
