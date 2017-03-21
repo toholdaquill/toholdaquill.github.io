@@ -15,9 +15,9 @@ Cyber disrupts society -- politics -- the economy. Who wins? Who loses? How will
 
 Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness. Understand these natural laws and profit. Fail to learn these lessons at your peril.
 
-- - - 
+[here i stand, i cannot do otherwise](introduction-here-i-stand-i-cannot-do-otherwise.html)
 
-introduction: [here i stand, i cannot do otherwise](introduction-here-i-stand-i-cannot-do-otherwise.html)
+- - - 
 
 0. [everything is broken (forever)](thesis-0-everything-is-broken.html)
 
