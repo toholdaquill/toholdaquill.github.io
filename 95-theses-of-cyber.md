@@ -17,8 +17,9 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 - - - 
 
+introduction: [here i stand, i cannot do otherwise](introduction-here-i-stand-i-cannot-do-otherwise.html)
 
-0. Imperfect human beings are incapable of creating perfectly-secure computers.
+0. [everything is broken (forever)](thesis-0-everything-is-broken.html)
 
 1. Corrupt human beings will create security flaws on purpose in order to gain power over others.
 
