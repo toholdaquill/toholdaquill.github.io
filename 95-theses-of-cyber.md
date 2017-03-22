@@ -25,13 +25,13 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 2. Flawed computer security is primarily a political and economic problem, not a technical one.
 
-3. The human race no longer lives "in the real world." We now live online, in the cyber domain.
+3. [welcome to the matrix](4-thesis-welcome-to-the-matrix.html)
 
 4. Two columns of power dominate the cyber domain: mass surveillance and targeted hacking.
 
 5. Given a large enough set of people and a long enough span of time, power always corrupts.
 
-6. Technology writes constitutional law. (See: Orwell's [_You and the Atom Bomb_](http://www.orwell.ru/library/articles/ABomb/english/e_abomb).)
+6. [technology writes constitutional law](6-thesis-technology-writes-constitutional-law.html)
 
 7. Mass surveillance disrupts democracy and redistributes power to the secret police.
 
@@ -121,9 +121,9 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 50. Silicon Valley surveillance capitalists are privateers for empire engaged in global data plunder (See: British East India Company).
 
-51. Surveillance capitalists, such as Google and Facebook, offer gaslighting as a service (GaaS).
+51. [gaslighting as a service](51-thesis-gaslighting-as-a-service.html)
 
-52. Governments around the world will inevitably commandeer technology companies.
+52. [guns trump code](52-thesis-guns-trump-code.html)
 
 53. The US government has commandeered Silicon Valley.
 
@@ -133,7 +133,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 56. The US secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet's civilian infrastructure.
 
-57. Members of the US secret police ("IC") who participate in the military occupation of the cyber domain are gangsters for capitalism (see: Marine Lt. Gen. Smedley Butler).
+57. [gangsters for capitalism](57-thesis-gangsters-for-capitalism.html)
 
 58. The secret police will always be able to exploit security flaws.
 

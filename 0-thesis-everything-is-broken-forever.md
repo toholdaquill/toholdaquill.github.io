@@ -3,7 +3,7 @@ layout: page
 title: everything is broken (forever)
 ---
 
-<h1 id="html">everything is broken (forever)</h1>
+<h1 id="html">{{ page.title }}</h1>
 
 <h2 id="html">thesis</h2>
 
