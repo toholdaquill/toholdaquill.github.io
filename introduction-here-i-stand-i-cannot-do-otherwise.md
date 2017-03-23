@@ -5,7 +5,7 @@ title: introduction
 
 <h1 id="html">introduction</h1>
 
-On August 6, 1991, during the reign of American emperor Bush, the first of that name, a curious and world-changing event took place, unnoticed at the time, in a cramped office deep in the bowels of CERN, the atom-smashing particle accelerator buried at the feet of the Jura Mountains outside Geneva.
+On August 6, 1991, a curious and world-changing event took place, unnoticed at the time, in a cramped office deep in the bowels of CERN, the atom-smashing particle accelerator buried at the feet of the Jura Mountains outside Geneva.
 
 A man plugged in a computer. A simple act: An obscure British physicist, running the equally obscure NeXT operating system, put the first web site online. For more than a quarter of a century since, humanity has been dealing with the fallout.
 
