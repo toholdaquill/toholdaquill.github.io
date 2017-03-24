@@ -59,3 +59,5 @@ Like Martin Luther, who challenged an empire of lies with 95 clear statements of
 
 Here I stand, I cannot do otherwise.
 
+next: [thesis[0]](0-thesis-everything-is-broken-forever.html)
+
