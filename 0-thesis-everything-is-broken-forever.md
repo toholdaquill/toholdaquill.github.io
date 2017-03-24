@@ -11,7 +11,7 @@ imperfect human beings are incapable of creating perfectly-secure computers
 
 <h2 id="html">what does this mean?</h2>
 
-When the bridge began to jiggle, the Army Corps of Engineers assured everyone it would be fine. The pillars were made of reinforced strawberry gelatin, the roadway paved with hardened marshmallow, and the suspension cables of black licorice ropes. What could go wrong? The finest engineers had designed and built the bridge. Just trust is, they said. We're professionals.
+When the bridge began to jiggle, the Army Corps of Engineers assured everyone it would be fine. The pillars were made of reinforced strawberry gelatin, the roadway paved with hardened marshmallow, and the suspension cables of black licorice ropes. What could go wrong? The finest engineers had designed and built the bridge. Just trust us, they said. We're professionals.
 
 Software engineers, unlike civil engineers, build fortresses of syntactic sugar and call them secure. If bridges were built like software, our infrastructure would collapse around our ears, and the civil engineers responsible would find themselves on trial for gross negligence.
 
