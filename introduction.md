@@ -1,6 +1,7 @@
 ---
 layout: page
 title: introduction
+thesis: -1
 ---
 
 <h1 id="html">introduction</h1>
@@ -59,5 +60,5 @@ Like Martin Luther, who challenged an empire of lies with 95 clear statements of
 
 Here I stand, I cannot do otherwise.
 
-next: [thesis[0]](0-thesis-everything-is-broken-forever.html)
+[\<\< previous: 95 Theses of Cyber](95-theses-of-cyber.html)  ||  [next: theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 

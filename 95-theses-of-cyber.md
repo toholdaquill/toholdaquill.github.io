@@ -15,27 +15,27 @@ Cyber disrupts society -- politics -- the economy. Who wins? Who loses? How will
 
 Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness. Understand these natural laws and profit. Fail to learn these lessons at your peril.
 
-[here i stand, i cannot do otherwise](introduction-here-i-stand-i-cannot-do-otherwise.html)
+[here i stand, i cannot do otherwise](introduction.html)
 
 - - - 
 
-0. [everything is broken (forever)](0-thesis-everything-is-broken-forever.html)
+0. [everything is broken (forever)](thesis-0.html)
 
 1. Corrupt human beings will create security flaws on purpose in order to gain power over others.
 
 2. Flawed computer security is primarily a political and economic problem, not a technical one.
 
-3. [welcome to the matrix](4-thesis-welcome-to-the-matrix.html)
+3. The human race no longer lives "in the real world." We now live online, in the cyber domain.
 
 4. Two columns of power dominate the cyber domain: mass surveillance and targeted hacking.
 
 5. Given a large enough set of people and a long enough span of time, power always corrupts.
 
-6. [technology writes constitutional law](6-thesis-technology-writes-constitutional-law.html)
+6. Technology writes constitutional law.
 
 7. Mass surveillance disrupts democracy and redistributes power to the secret police.
 
-8. "Intelligence community" is a euphemism for the secret police. (See: Orwell's [_Politics and the English Language_](http://www.orwell.ru/library/essays/politics/english/e_polit).)
+8. "Intelligence community" is a euphemism for the secret police
 
 9. The secret police exist to enforce conformity and suppress dissent.
 
@@ -103,7 +103,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 41. "Big Data" is a corporate euphemism for mass surveillance.
 
-42. Humans no longer program computers. Computers program humans.(See: [Will Democracy Survive Big Data and Artificial Intelligence?](https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/))
+42. Humans no longer program computers. Computers program humans.
 
 43. To pwn is to own.
 
@@ -121,9 +121,9 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 50. Silicon Valley surveillance capitalists are privateers for empire engaged in global data plunder (See: British East India Company).
 
-51. [gaslighting as a service](51-thesis-gaslighting-as-a-service.html)
+51. Surveillance capitalists, such as Google and Facebook, offer gaslighting as a service (GaaS)
 
-52. [guns trump code](52-thesis-guns-trump-code.html)
+52. Governments around the world will inevitably commandeer technology companies.
 
 53. The US government has commandeered Silicon Valley.
 
@@ -131,9 +131,9 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 55. The greatest threat to human liberty in the cyber domain is the government of the United States of America.
 
-56. The US secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet's civilian infrastructure.
+56. The US secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet’s civilian infrastructure.
 
-57. [gangsters for capitalism](57-thesis-gangsters-for-capitalism.html)
+57. Members of the US secret police (“IC”) who participate in the military occupation of the cyber domain are gangsters for capitalism.
 
 58. The secret police will always be able to exploit security flaws.
 
@@ -183,7 +183,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 81. Free market capitalism is a major contributor to rampant computer insecurity.
 
-82. The curse of the "minimally-viable product" is the primary cause of poor IoT security.
+82. The curse of the “minimally-viable product” is the primary cause of poor IoT security.
 
 83. The "ship it and forget it" business model of most Android OEMs has turned Android users into second-class citizens.
 

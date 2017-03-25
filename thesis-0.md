@@ -1,11 +1,12 @@
 ---
 layout: page
 title: everything is broken (forever)
+thesis: 0
 ---
 
 <h1 id="html">{{ page.title }}</h1>
 
-<h2 id="html">thesis[0]</h2>
+<h2 id="html">thesis[{{ page.thesis }}]</h2>
 
 imperfect human beings are incapable of creating perfectly-secure computers
 
@@ -48,6 +49,8 @@ Prayers ain't gonna help. This problem has no solution: Imperfect creatures crea
 The siren song of formal methods lulls some with a distant, chimerical promise of provably-secure code that cannot be broken. Formal methods are a cute academic plaything that do not scale in the real world, nor offer any hope of solving the problems we face today in the cyber domain. Perhaps a future generation may enjoy the fruits of research into formal methods...assuming humanity survives long enough to do so.
 
 Everything is broken. Always. Forever. For all practical intents and purposes, anyway. And security flaws gives the possessors power that casts a shadow across the entire planet.
+
+[\<\< previous: introduction](introduction.html)  ||  [next: theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 
 <h2 id="html">see also</h2>
 
