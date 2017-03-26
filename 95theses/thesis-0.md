@@ -6,7 +6,7 @@ thesis: 0
 
 <h1 id="html">{{ page.title }}</h1>
 
-<h2 id="html">thesis[{{ page.thesis }}]</h2>
+<h2 id="html">theses[{{ page.thesis }}]</h2>
 
 imperfect human beings are incapable of creating perfectly-secure computers
 
