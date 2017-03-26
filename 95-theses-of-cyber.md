@@ -15,11 +15,11 @@ Cyber disrupts society -- politics -- the economy. Who wins? Who loses? How will
 
 Natural laws govern the cyber domain. Laws that explain in simple terms the complex and bewildering changes we now witness. Understand these natural laws and profit. Fail to learn these lessons at your peril.
 
-[here i stand, i cannot do otherwise](introduction.html)
+[here i stand, i cannot do otherwise](95theses/introduction.html)
 
 - - - 
 
-0. [everything is broken (forever)](thesis-0.html)
+0. [imperfect human beings are incapable of creating perfectly-secure computers](95theses/thesis-0.html)
 
 1. Corrupt human beings will create security flaws on purpose in order to gain power over others.
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: thesis
 title: introduction
 thesis: -1
 ---

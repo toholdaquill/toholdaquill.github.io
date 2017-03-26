@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: thesis
 title: everything is broken (forever)
 thesis: 0
 ---
