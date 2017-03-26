@@ -50,7 +50,7 @@ The siren song of formal methods lulls some with a distant, chimerical promise o
 
 Everything is broken. Always. Forever. For all practical intents and purposes, anyway. And security flaws gives the possessors power that casts a shadow across the entire planet.
 
-[\<\< previous: introduction](introduction.html)  ||  [next: theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
+[\<\< previous: introduction](introduction.html)  ||  next: theses[{{ page.thesis | plus:1 }}]
 
 <h2 id="html">see also</h2>
 
