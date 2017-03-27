@@ -60,5 +60,5 @@ Like Martin Luther, who challenged an empire of lies with 95 clear statements of
 
 Here I stand, I cannot do otherwise.
 
-[\<\< previous: 95 Theses of Cyber](95-theses-of-cyber.html)  ||  [next: theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
+[\<\< previous: 95 Theses of Cyber](../95-theses-of-cyber.html)  ||  [next: theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 

@@ -209,3 +209,4 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 94. Security without freedom is worthless.
 
+||   [next: theses[introduction] \>\>](95theses/introduction.html)
