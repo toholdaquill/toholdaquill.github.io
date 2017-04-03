@@ -19,11 +19,11 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 - - - 
 
-0. [imperfect human beings are incapable of creating perfectly-secure computers](95theses/thesis-0.html)
+0. [everything is broken (forever)](95theses/thesis-0.html)
 
-1. [human beings will create security flaws on purpose in order to gain power over others](95theses/thesis-1.html)
+1. [power emanates from the barrel of security flaws](95theses/thesis-1.html)
 
-2. Flawed computer security is primarily a political and economic problem, not a technical one.
+2. [security is not binary](95theses/thesis-2.html)
 
 3. The human race no longer lives "in the real world." We now live online, in the cyber domain.
 
