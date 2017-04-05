@@ -43,4 +43,4 @@ Politics is the struggle to bend other people to your will. War, as von Clausewi
 Computer security the central political question of our times.
 
 
-[\<\< previous: theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [next: theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
