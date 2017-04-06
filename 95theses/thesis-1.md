@@ -40,7 +40,7 @@ A court order, backed by the coercive power of the state, and wrapped up in a bo
 
 Politics is the struggle to bend other people to your will. War, as von Clausewitz noted, is an extension of politics by other means. On the cyber domain, politics and war have entered a new chapter, one still being written.
 
-Computer security the central political question of our times.
+Computer security is the central political question of our times.
 
 
 [\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
