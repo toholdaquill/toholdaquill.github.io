@@ -25,7 +25,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 2. [security is not binary](95theses/thesis-2.html)
 
-3. The human race no longer lives "in the real world." We now live online, in the cyber domain.
+3. [meatspace is pwned](95theses/thesis-3.html)
 
 4. Two columns of power dominate the cyber domain: mass surveillance and targeted hacking.
 

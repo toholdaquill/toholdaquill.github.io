@@ -53,4 +53,4 @@ Dealing with the non-binary nature of information security is essential if we ar
 
 We can no longer go back. We all now live on the cyber domain, whether we want to or not. How we address the flawed economic and political incentives that delivered us into this insecure new world will define the course of civilization for generations to come.
 
-[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)

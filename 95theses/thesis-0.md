@@ -40,7 +40,7 @@ But how would you know? How would a software engineer, or the users, or society 
 
 You wouldn't know.
 
-If a foreign spy or gangster blows up your bridge, you're going to know about it. Not going to work today, earthquake knocked the bridge down. But if the same saboteur breaks your code, it is invisible. You won't know. You may never know...until it's too late.
+If a foreign spy or gangster blows up your bridge, you're going to know about it. You're not going to work today. But if the same saboteur breaks your code, it is invisible. You won't know. You may never know...until it's too late.
 
 This creates a unique set of challenges for software engineers, but also for software companies, lawmakers, and really, all of us. We live in the cyber domain now, but the solid ground we think we stand on is quicksand, haphazard code glued together with twine and chewing gum and launched into the cyber domain with a silent prayer.
 
