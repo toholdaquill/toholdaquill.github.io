@@ -19,11 +19,11 @@ The human race now lives online, in the cyber domain. We used to live "in the re
 
 This is one of the biggest changes in the history of humanity. Note that I say "change," and not "progress." Let us not invoke that judgment-infused word without reflection. The sense of inevitable change we all feel may be either progress--or tragedy. Of which more later.
 
-The consequences of this change will occupy the rest of theses 95 Theses of Cyber. But let us first establish, clearly, and beyond a doubt, that this change has in fact taken place.
+The consequences of this change will occupy the rest of these 95 Theses. But let us first establish, clearly, and beyond a doubt, that this change has in fact taken place.
 
 The most obvious example of the move online--and subsequent pwnage of meatspace--is the so-called Internet of Things (IoT). A fridge obeys the rules of meatspace. Plug a fridge into the internet, and it will obey the rules of the cyber domain.
 
-Let us examine the differences. Control of a non-IoT fridge requires physical access. Someone has to stand in your kitchen if they want to see or control your appliance--the model, make, year, current inside temperature, energy consumption, what food and drink comes and goes--all this is a opaque to a remote actor.
+Let us examine the differences. Control of a non-IoT fridge requires physical access. Someone has to stand in your kitchen if they want to see or control your appliance--the model, make, year, current inside temperature, energy consumption, what food and drink comes and goes--all this is opaque to a remote actor.
 
 But on the cyber domain, channels of communication and control extend from your fridge to every corner of the planet. The manufacturer, and, indeed, any sufficiently-motivated attacker, state or otherwise, can know everything about your fridge, and in real time, or close to it.
 
@@ -53,11 +53,11 @@ To know the virtual you is god-like power.
 
 Who owns this virtual you? Not you. The powerful take it from the powerless, digital colonial plunder that looks a lot like the proverbial (if not historically accurate) tale of Native Americans selling Manhattan for a handful of beads.
 
-It's not just about watching, either. Surveillance isn't about voyeurism, it's about control. To own your virtual self is to own you. Think of it like voodoo dolls, if that helps. Such ownership violates not only the confidentiality of your virtual self, but also its integrity and availability.
+It's not just about watching, either. Surveillance isn't about voyeurism, it's about control. To own your virtual self is to own you. Think of it like voodoo dolls, if that helps--stick a pin and hurt someone for reals. Such ownership violates not only the confidentiality of your virtual self, but also its integrity and availability.
 
 How easy to sabotage your life--or make it unavailable to you! We need only look at JTRIG's operations to see where this is headed.
 
-We now live online. Our virtual selves are more real than the sacks of meat that walk the streets. A human with a pocket supercomputer is a cyborg--the machine half owned and controlled, not by the human attached to it, but by powerful people who wish to control you.
+Our virtual selves are more real than the sacks of meat that walk the streets, and our cyborg connection to the world group mind--your pocket supercomputer--is owned and controlled, not by you, the human attached to it, but by powerful people who wish to control you.
 
 At what point does the cyborg cross over and become more machine than human? At what point do we declare human liberty dead, and gong in the dawn of neverending totalitarian dictatorship by the secret police?
 
@@ -66,3 +66,7 @@ At what point does the cyborg cross over and become more machine than human? At 
 <h2 id="html">see also</h2>
 
 Glenn Greenwald, ["How Covert Agents Infiltrate the Internet to Manipulate, Deceive, and Destroy Reputations"](https://theintercept.com/2014/02/24/jtrig-manipulation/)
+
+J.M. Porup, ["Plunder, It's a Thing. And iif you work in Silicon Valley, you're probably doing it."](https://medium.com/@toholdaquill/plunder-it-s-a-thing-b449485812bc)
+
+J.M. Porup, ["Surveillance Isn't About Watching. It's About Violence, or the Threat of Violence."](https://medium.com/@toholdaquill/surveillance-isnt-about-watching-a65b5eaadaf0)
