@@ -1,9 +1,11 @@
+---
+layout: shortstory
+title: One Perfect #IoT Day
+---
 
 One Perfect #IoT Day
 ====================
 
-a short story by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup") ([@toholdaquill](https://www.twitter.com/toholdaquill "@toholdaquill"))
---------------------------------------------------------------------------------------------------------------------------------------------
 ### wc: ~1700
 
 

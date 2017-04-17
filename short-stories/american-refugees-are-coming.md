@@ -1,3 +1,7 @@
+---
+layout: shortstory
+title: American Refugees Are Coming!
+---
 
 American Refugees Are Coming!
 =============================
@@ -5,8 +9,6 @@ American Refugees Are Coming!
 A Really Crummy Maple-Flavored Police Mystery
 ---------------------------------------------
 
-a short story by [J.M. Porup](https://www.JMPorup.com/ "J.M. Porup") ([@toholdaquill](https://www.twitter.com/toholdaquill "@toholdaquill"))
---------------------------------------------------------------------------------------------------------------------------------------------
 ### wc: ~1800
 
 
