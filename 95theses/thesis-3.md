@@ -53,7 +53,7 @@ To know the virtual you is god-like power.
 
 Who owns this virtual you? Not you. The powerful take it from the powerless, digital colonial plunder that looks a lot like the proverbial (if not historically accurate) tale of Native Americans selling Manhattan for a handful of beads.
 
-It's not just about watching, either. Surveillance isn't about voyeurism, it's about control. To own your virtual self is to own you. Think of it like voodoo dolls, if that helps--stick a pin and hurt someone for reals. Such ownership violates not only the confidentiality of your virtual self, but also its integrity and availability.
+It's not just about watching, either. Surveillance isn't about voyeurism, it's about control. To own your virtual self is to own you. Data are people too. Think of it like voodoo dolls, if that helps--stick a pin and hurt someone for reals. Such ownership violates not only the confidentiality of your virtual self, but also its integrity and availability.
 
 How easy to sabotage your life--or make it unavailable to you! We need only look at JTRIG's operations to see where this is headed.
 
