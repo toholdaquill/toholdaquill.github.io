@@ -23,7 +23,7 @@ The consequences of this change will occupy the rest of these 95 Theses. But let
 
 The most obvious example of the move online--and subsequent pwnage of meatspace--is the so-called Internet of Things (IoT). A fridge obeys the rules of meatspace. Plug a fridge into the internet, and it will obey the rules of the cyber domain.
 
-Let us examine the differences. Control of a non-IoT fridge requires physical access. Someone has to stand in your kitchen if they want to see or control your appliance--the model, make, year, current inside temperature, energy consumption, what food and drink comes and goes--all this is opaque to a remote actor.
+Let us examine the differences. Control of a non-IoT fridge requires physical access. Someone has to stand in your kitchen if they want to see or control your appliance  The model, make, year, current inside temperature, energy consumption, what food and drink comes and goes--all this is opaque to a remote actor.
 
 But on the cyber domain, channels of communication and control extend from your fridge to every corner of the planet. The manufacturer, and, indeed, any sufficiently-motivated attacker, state or otherwise, can know everything about your fridge, and in real time, or close to it.
 
@@ -57,7 +57,7 @@ It's not just about watching, either. Surveillance isn't about voyeurism, it's a
 
 How easy to sabotage your life--or make it unavailable to you! We need only look at JTRIG's operations to see where this is headed.
 
-Our virtual selves are more real than the sacks of meat that walk the streets, and our cyborg connection to the world group mind--your pocket supercomputer--is owned and controlled, not by you, the human attached to it, but by powerful people who wish to control you.
+Our virtual selves are more real than the sacks of meat that walk the streets, and our cyborg connection to the world group mind--your pocket supercomputer cum personal tracking device--is owned and controlled, not by you, the human attached to it, but by powerful people who wish to control you.
 
 At what point does the cyborg cross over and become more machine than human? At what point do we declare human liberty dead, and gong in the dawn of neverending totalitarian dictatorship by the secret police?
 
