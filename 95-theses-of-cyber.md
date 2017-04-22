@@ -19,13 +19,17 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 - - - 
 
-0. [everything is broken (forever)](95theses/thesis-0.html)
+<ol start="0">
 
-1. [power emanates from the barrel of security flaws](95theses/thesis-1.html)
+<li><a href="95theses/thesis-0.html">imperfect human beings are incapable of creating perfectly-secure computers</a></li> 
 
-2. [security is not binary](95theses/thesis-2.html)
+</ol>
 
-3. [meatspace is pwned](95theses/thesis-3.html)
+1. [corrupt human beings will create security flaws on purpose in order to gain power over others](95theses/thesis-1.html)
+
+2. [flawed computer security is a political and economic problem, not a technical problem](95theses/thesis-2.html)
+
+3. [the human race no longer lives "in the real world." we now live online, in the cyber domain](95theses/thesis-3.html)
 
 4. Two columns of power dominate the cyber domain: mass surveillance and targeted hacking.
 
@@ -97,7 +101,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 38. Any effort to improve computer security that does not address the secret police as its primary threat is doomed to serve the interests of the secret police.
 
-39. Surveillance is not about watching. It's about interfering. It's about control.
+39. [surveillance is not about watching. it's about interfering. it's about control.](95theses/thesis-39.html)
 
 40. Machine learning automates oppression.
 
