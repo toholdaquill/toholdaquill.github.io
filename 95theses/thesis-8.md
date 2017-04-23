@@ -25,7 +25,7 @@ As Americans, we suffer from a frank inability to confront painful truths about 
 Things like the continuance of British rule in India, the Russian purges and deportations, the dropping of the atom bombs on Japan, can indeed be defended, but only by arguments which are too brutal for most people to face, and which do not square with the professed aims of the political parties.
 </p>
 <p>
-Thus political language has to consist largely of euphemism, question-begging and sheer cloudy vagueness. Defenceless villages are bombarded from the air, the inhabitants driven out into the countryside, the cattle machine-gunned, the huts set on fire with incendiary bullets: this is called pacification. Millions of peasants are robbed of their farms and sent trudging along the roads with no more than they can carry: this is called transfer of population or rectification of frontiers.
+Thus political language has to consist largely of euphemism, question-begging and sheer cloudy vagueness. Political language...is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind. 
 </p>
 </blockquote>
 
