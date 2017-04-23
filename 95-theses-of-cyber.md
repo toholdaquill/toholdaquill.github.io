@@ -39,7 +39,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 7. Mass surveillance disrupts democracy and redistributes power to the secret police.
 
-8. "Intelligence community" is a euphemism for the secret police
+8. ["intelligence community" is a euphemism for the secret police](95theses/thesis-8.html)
 
 9. The secret police exist to enforce conformity and suppress dissent.
 
