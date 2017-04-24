@@ -169,7 +169,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 72. Destroying morale in the secret police is an effective way to provoke resignations and leaks.
 
-73. Ostracizing the secret police will deprive them of the tech talent they need.
+73. [ostracizing the secret police will deprive them of the tech talent they need](95theses/thesis-73.html)
 
 74. The American secret police are a symptom of a late-stage empire that has betrayed its founding values.
 
