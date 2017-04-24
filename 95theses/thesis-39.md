@@ -1,7 +1,6 @@
 ---
 layout: thesis
 title: conform. obey. be silent. or else.
-
 thesis: 39
 ---
 
