@@ -47,7 +47,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 11. Any sufficiently-corrupt intelligence agency is indistinguishable from the mafia.
 
-12. The secret police have seized power in a silent coup.
+12. [the secret police have seized power in a silent coup](95theses/thesis-12.html)
 
 13. The US Constitution described a balance of power between the people and the state at the time of its drafting.
 
