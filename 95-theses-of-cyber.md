@@ -135,7 +135,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 55. The greatest threat to human liberty in the cyber domain is the government of the United States of America.
 
-56. The US secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet’s civilian infrastructure.
+56. [the secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet’s civilian infrastructure](95theses/thesis-56.html)
 
 57. Members of the US secret police (“IC”) who participate in the military occupation of the cyber domain are gangsters for capitalism.
 
