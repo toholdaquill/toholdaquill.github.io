@@ -133,7 +133,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 54. The US government owns everyone subject to Silicon Valley surveillance capitalism.
 
-55. The greatest threat to human liberty in the cyber domain is the government of the United States of America.
+55. [The greatest threat to human liberty in the cyber domain is the government of the United States of America.](95theses/thesis-55.html)
 
 56. [the secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet’s civilian infrastructure](95theses/thesis-56.html)
 
