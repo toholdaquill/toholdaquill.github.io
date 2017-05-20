@@ -61,7 +61,7 @@ The use of force by the state to control the flow of people and information -- a
 The people who work for the American secret police swore an oath to protect the Constitution. Those who engage in such conduct break their oath on a daily basis, betray their country, bring shame on themselves and their families, and commit treason against the Constitution.
 
 
-\<\< theses[{{ page.thesis | minus:1 }}]  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)   ||  theses[{{ page.thesis | plus:1 }}] \>\>
 
 <h2 id="html">see also</h2>
 

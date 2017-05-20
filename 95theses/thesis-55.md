@@ -46,7 +46,7 @@ Truth is coming, Snowden tells us. We can only conclude that every effort will b
 
 
 
-\<\< theses[{{ page.thesis | minus:1 }}]  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+\<\< theses[{{ page.thesis | minus:1 }}]  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 
 <h2 id="html">see also</h2>
 
