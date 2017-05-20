@@ -50,4 +50,4 @@ Because if we don't destroy them first, they will surely destroy us.
 
 <h2 id="html">see also</h2>
 
-[https://medium.com/@toholdaquill/journalists-are-terrorists-lets-start-acting-like-it-4809bf52d3ba](Journalists are terrorists. Let's start acting like it.)
+[Journalists are terrorists. Let's start acting like it.](https://medium.com/@toholdaquill/journalists-are-terrorists-lets-start-acting-like-it-4809bf52d3ba)
