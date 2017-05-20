@@ -161,7 +161,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 68. Journalists and the secret police are bitter enemies. There can be only one.
 
-69. The job of journalism today is to expose and destroy the secret police.
+69. [the job of journalism today is to expose and destroy the secret police](95theses/thesis-69.html)
 
 70. Making it easy and safe for whistleblowers to come forward is essential to exposing the crimes of the secret police.
 
