@@ -35,7 +35,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 5. [given a large enough set of people and a long enough span of time, power always corrupts](95theses/thesis-5.html)
 
-6. Technology writes constitutional law.
+6. [technology writes constitutional law](95theses/thesis-6.html)
 
 7. Mass surveillance disrupts democracy and redistributes power to the secret police.
 
