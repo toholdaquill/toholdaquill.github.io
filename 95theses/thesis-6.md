@@ -86,7 +86,7 @@ What the Internet gives us in ease of copying and sharing information takes away
 
 And information that has spread so far it can no longer be nipped in the bud? Sow enough fear, uncertainty and doubt as to the the truth -- a signal-to-noise ratio attack, like the Pe&ntilde;abots of Mexico, or the "fake news" of a disinfo op -- and most will no longer be able to tell what is true and what is false.
 
-The Internet, like the printing press before it, has redistributed power. In this case, from the people to the security apparatus, who have the power to spy on and disrupt our communications. As a result, we now live in totalitarian dictatorships run by spies, with a thin veneer of vestigial democracy to keep society ticking along, worker bees humming to the hive every day. The only check on the power of the spies is the need to operate on the principle of plausible deniability -- they cannot act openly against their enemies.
+The Internet, like the printing press before it, has redistributed power. In this case, from the people to the security apparatus. As a result, we now live in totalitarian dictatorships run by spies, with a thin veneer of vestigial democracy to keep society ticking along, worker bees humming to the hive every day. The only check on the power of the spies is the need to operate on the principle of plausible deniability -- they cannot act openly against their enemies.
 
 Yet.
 
