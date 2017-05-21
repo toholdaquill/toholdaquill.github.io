@@ -19,7 +19,7 @@ Behold! The Information Age is come!
 
 What lucky men we are to live in such a time, where the knowledge of anything -- or anyone -- may be had at the click of the keys, and no act or word escapes unseen.
 
-For centuries we, the Ruling West, have made this our signature obsession -- the collection of knowledge for the sake of knowledge itself. From Diderot and his Encyclopedie to Babbage and his machine, from the ignorant transcribings of a barely-literate monk to the Internet, this painstaking collection of data, this trend, points toward the culmination of centuries of collective desiring -- to our apotheosis -- Total Information Awareness, Total Power.
+For centuries we, the Ruling West, have made this our signature obsession -- the collection of knowledge for the sake of knowledge itself. From Diderot and his *Encyclopedie* to Babbage and his machine, from the ignorant transcribings of a barely-literate monk to the Internet, this painstaking collection of data, this trend, points toward the culmination of centuries of collective desiring -- to our apotheosis -- Total Information Awareness, Total Power.
 
 This will to knowledge reflects a deep insecurity about our own lives, an unwillingness to face death, and, indeed, a latent desire for godhead. Our striving not just to know, but to know all, reflects our unbounded craving for omniscience -- and, so, omnipotence.
 

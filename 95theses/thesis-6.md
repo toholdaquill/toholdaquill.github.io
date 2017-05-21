@@ -12,9 +12,12 @@ what technology dictates, the law transcribes
 
 <h2 id="html">what does this mean?</h2>
 
-*"Journalism is publishing something someone does not want published."* -- George Orwell
+*"Journalism is publishing something someone does not want published."* <br />
+-- George Orwell
 
-Without journalism, democracy could not exist. The Fourth Estate's ability to check abuses by those in power is the last line of defense between us and tyranny. But this ability is under threat, and may soon -- barring some innovative breakthrough in secure computing -- disappear entirely.
+Without journalism, democracy could not exist.
+
+The Fourth Estate's ability to check abuses by those in power is the last line of defense between us and tyranny. But this ability is under threat, and may soon -- barring some unexpected breakthrough in secure computing -- disappear entirely.
 
 The printing press created journalism. We take the press for granted today, but 450 years ago, Gutenberg's invention was as novel as the Internet, and equally disruptive. For the first time, mass communication decoupled from both space and time was possible. Revolutionaries like Martin Luther seized on this new power to report on -- yes, report on -- the extreme abuse of power by the imperial power of his day, the Catholic Church.
 
@@ -48,7 +51,7 @@ First, the stirrup. By permitting horsemen to stand up in the saddle, this start
 
 Law did not create this new social order. Technology did.
 
-Consider next democracy in ancient Athens. To survive and prosper, Athens was forced to become a sea power. But in order to man those triremes, thousands of willing rowers were needed. Elsewhere in ancient Greece, top-down social structures were the norm, imposed by the elite hoplite (heavy infantry) class. Only the wealthy could afford body armor, shield and sword. But to be a rower, all you needed was an oar and a cushion for your backside. The laws of Athens normalized democracy for most of the Golden Age of Athens (5th-century BC).
+Consider next democracy in ancient Athens. To survive and prosper, Athens was forced to become a sea power. But in order to man those triremes, thousands of willing rowers were needed. Elsewhere in ancient Greece, top-down social structures were the norm, imposed by the elite hoplite (heavy infantry) class. Only the wealthy could afford body armor, shield and sword. But to be a rower, all you needed was an oar and a cushion for your backside. The laws of Athens normalized democracy for most of that city's Golden Age (5th-century BC).
 
 Law did not create this social order. Technology did.
 
@@ -68,7 +71,7 @@ Because the cost of seeking out and destroying ideas, and those who express them
 
 Let's go back to our Orwell test. Is the Internet cheap and simple? Or complex and expensive?
 
-Cheap and simple to use, yes. To publish. To copy. But from the Internet rise two columns of power out of reach of everyday man: The power of mass surveillance and targetted hacking.
+Cheap and simple to use, yes. To publish. To copy. But from the Internet rise two columns of power out of reach of everyday man: The powers of mass surveillance and targetted hacking.
 
 Security is the Internet's Achilles hell.
 
@@ -84,9 +87,9 @@ It has been a commonplace observation, in the wake of the Snowden revelations, t
 
 What the Internet gives us in ease of copying and sharing information takes away from us in the impermanence of that information. Information on the Internet can too easily be found, monitored, and destroyed. The ability to censor -- and, indeed, to rewrite history -- has never been more real and immediate.
 
-And information that has spread so far it can no longer be nipped in the bud? Sow enough fear, uncertainty and doubt as to the the truth -- a signal-to-noise ratio attack, like the Pe&ntilde;abots of Mexico, or the "fake news" of a disinfo op -- and most will no longer be able to tell what is true and what is false.
+And information that has spread so far it can no longer be nipped in the bud? Sow enough fear, uncertainty and doubt as to the the truth -- a signal-to-noise ratio attack, like the Pe&ntilde;abots of Mexico, or the "fake news" of a disinfo op -- and most people will no longer be able to tell what is true and what is false.
 
-The Internet, like the printing press before it, has redistributed power. In this case, from the people to the security apparatus. As a result, we now live in totalitarian dictatorships run by spies, with a thin veneer of vestigial democracy to keep society ticking along, worker bees humming to the hive every day. The only check on the power of the spies is the need to operate on the principle of plausible deniability -- they cannot act openly against their enemies.
+The Internet, like the printing press before it, has redistributed power. In this case, from the people to the security apparatus. As a result, we now live in a totalitarian dictatorship run by spies, with a thin veneer of vestigial democracy to keep society ticking along, worker bees humming to the hive every day. The only check on the power of the spies is the need to operate on the principle of plausible deniability -- they cannot act openly against their enemies.
 
 Yet.
 
@@ -94,7 +97,7 @@ The time is coming when this pretense will no longer be required. A manufactured
 
 Remember, on the Internet, journalism is no different from spam or child pornography or cyberwar. It's all zeroes and ones. It's all data. And it can be filtered, blocked, and disrupted with ease.
 
-Once this happens, once martial law on the Internet is complete, once no email, no blog post, no tweet traverses the Internet without the permission of the government, then the power of the security apparatus will be total, and they will be free to kidnap, interrogate, torture, imprison and murder at will. To think that such awesome power will not be misused -- that any human being can be trusted with such power -- is naive.
+Once this happens, once martial law on the Internet is complete, once no email, no blog post, no tweet traverses the network without the permission of the government, then the power of the security apparatus will be total, and they will be free to kidnap, interrogate, torture, imprison and murder at will. To think that such awesome power will not be misused -- that any human being can be trusted with such power -- is naive.
 
 You could argue, this hasn't happened yet, why should we expect it to happen? What about our democratic principles? What about our long tradition of democracy?
 
