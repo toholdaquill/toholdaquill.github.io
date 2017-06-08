@@ -111,11 +111,11 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 43. To pwn is to own.
 
-44. Mass surveillance owns our virtual selves.
+44. With every year that passes, our virtual selves grow more and more complete.
 
 45. Our virtual selves are more real than our flesh and blood in meatspace.
 
-46. With every year that passes, our virtual selves grow more and more complete.
+46. Mass surveillance owns our virtual selves.
 
 47. To own someone is a modern form of slavery.
 
