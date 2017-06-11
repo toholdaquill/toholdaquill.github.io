@@ -16,11 +16,11 @@ In the early fifth-century BC, two warring city-states in ancient Greece made a 
 
 Put a pinkie to the corner of your lips and intone "one hundred years" in the style of Mike Myers playing Dr. Evil. You get the idea.
 
-No one at the time was sure exactly how long a hundred years was. Writing had only just been invented, and a hundred years in the past was lost in the mists of memory, oral tradition stored and copied in the human cerebrum, not the most reliable or accurate of storage media.
+No one at the time was sure exactly how long a hundred years *was*. Writing had only just been invented, and a century in the past was lost in the mists of memory, oral tradition stored and copied in the human cerebrum, not the most reliable or accurate of storage media.
 
 Predictably, war broke out again a few years later.
 
-How different from today, when every millisecond of our lives are recorded, measured, judged, influenced.
+How different from today, when every millisecond of our lives is recorded, measured, judged, influenced.
 
 We speak of "digital tracks" or "online footprints," but so detailed and permanent are these "tracks" that we ought rather to speak of moving, three-dimensional sculptures cast anew, each moment, in bronze.
 
