@@ -36,5 +36,5 @@ As the infinitesimal curve of data collection about the individual nudges its wa
 
 The coming merger of human and machine makes clear our peril: Qur quantified digital selves are now more real -- more permanent -- more detailed -- more fragile -- than our flesh and blood in meatspace.
 
-\<\< theses[{{ page.thesis | minus:1 }}]  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+\<\< theses[{{ page.thesis | minus:1 }}]  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 
