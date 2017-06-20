@@ -34,9 +34,9 @@ A picture of a pipe is now more real than the pipe, and a human's digital doppel
 
 The answer is unpleasant. Governments and corporations collect, store, analyze and control our virtual selves in order to modify our conduct, at scale, for profit, political power, sometimes both. Increased self-knowledge comes with a painful and vicious trade-off: Others, who wish not to enhance our autonomy but to destroy it, gain knowledge of us as well.
 
-The dirty tricks directorate of the UK secret police, GCHQ's JTRIG, [TK], wants to create "cyber magicians" who "make something happen in the real world," TK link TK, a 2012 slide deck leaked by Edward Snowden revealed. We may safely conclude that similar "intelligence agencies" around the world eagerly pursue similar goals.
+The dirty tricks directorate of the UK secret police, GCHQ's JTRIG, wants to create "cyber magicians" who "make something happen in the real or cyber world," a slide deck leaked by Edward Snowden revealed. We may safely conclude that similar "intelligence agencies" around the world eagerly pursue similar goals.
 
-Hack someone's credit rating, zero their bank balance, turn off their IoT thermostat -- or their pacemaker, plant child porn on their laptop and call the cops, "destroy business relationships," TK etc TK.
+Hack someone's credit rating, zero their bank balance, turn off their IoT thermostat -- or their pacemaker, plant child porn on their laptop and call the cops, or "stop deals/ruin business relationships."
 
 Our virtual selves are defenseless against such attacks. This turns our digital doppelgangers into modern-day voodoo dolls, where a pin damages real flesh, and a bit flipped at the right moment kills without a trace.
 
@@ -52,4 +52,11 @@ This heralds the advent of a breathtakingly novel form of governance, in which t
 
 
 [\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+
+<h2 id="html">see also</h2>
+
+Glenn Greenwald, ["How Covert Agents Infiltrate the Internet to Manipulate, Deceive, and Destroy Reputations"](https://theintercept.com/2014/02/24/jtrig-manipulation/)
+
+JTRIG, ["The Art of Deception: Training for a New Generation of Online Covert Operations"](https://theintercept.com/document/2014/02/24/art-deception-training-new-generation-online-covert-operations/)
+
 
