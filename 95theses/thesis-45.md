@@ -40,7 +40,7 @@ Hack someone's credit rating, zero their bank balance, turn off their IoT thermo
 
 Our virtual selves are defenseless against such attacks. This turns our digital doppelgangers into modern-day voodoo dolls, where a pin damages real flesh, and a bit flipped at the right moment kills without a trace.
 
-In this new reality we inhabit, we are now controlled not only by these sociopathic state-sponsored criminals, but also by large corporations -- themselves sociopathic artificial persons who live forever, as Cory Doctorow is fond of calling them -- that collect our data, collect us, store us, more than ourselves, in order to mold our reality and control our conduct to their liking.
+In this new reality we inhabit, we are now controlled not only by these sociopathic state-sponsored criminals, but also by large corporations -- themselves sociopathic artificial persons who live forever, as Cory Doctorow is fond of calling them -- that collect our data, collect us, store us, manipulate us, in order to mold our reality and control our conduct to their liking.
 
 Facebook and Google offer not targetted advertising, but personalized propaganda -- gaslighting as a service. Their power to change human behavior at global scale, to create individual bubble realities, is power such as the human race has never before seen. (We freak out about "fake news" but "personalized news" ought to frighten us even more.)
 
