@@ -63,13 +63,13 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 19. Rights that can no longer be defended by force wither and die.
 
-20. The cornerstones of democracy in the cyber domain are unbreakable e2e encryption, anonymity, and end-point security.
+20. The cornerstones of democracy in the cyber domain are unbreakable end-to-end encryption, anonymity, and end-point security.
 
 21. The cyber domain today is not a democracy.
 
 22. The cyber domain favors totalitarian dictatorship by the secret police.
 
-23. Perfect democracy in the cyber domain is not possible (See: theses 1 & 2).
+23. Perfect democracy in the cyber domain is not possible (See: theses[0,1]).
 
 24. In the cyber domain, we each now live next door to every corrupt cop, gangster, spy, secret police force, and script kiddie on the planet.
 
@@ -133,7 +133,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 54. The US government owns everyone subject to Silicon Valley surveillance capitalism.
 
-55. [The greatest threat to human liberty in the cyber domain is the government of the United States of America.](95theses/thesis-55.html)
+55. [the greatest threat to human liberty in the cyber domain is the government of the United States of America](95theses/thesis-55.html)
 
 56. [the secret police have declared martial law in the cyber domain and pre-emptively seized control of the internet’s civilian infrastructure](95theses/thesis-56.html)
 
@@ -149,9 +149,9 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 62. Playing defense against nation-state APTs is a game few, in any, can win.
 
-63. The best defense on the internet is a good offense. (See: thesis 26.)
+63. The best defense on the internet is a good offense. (See: theses[25].)
 
-64. Ending the tyranny of the secret police requires us to hold them accountable for their treason against democracy. (See: thesis 13.)
+64. Ending the tyranny of the secret police requires us to hold them accountable for their treason against democracy. (See: theses[12].)
 
 65. The secret police are state-sponsored criminals and terrorists who engage in violence against civilians to achieve political ends.
 

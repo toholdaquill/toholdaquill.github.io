@@ -27,7 +27,7 @@ This leads some to the conclusion that playing defense is a waste of time, and a
 
 Just because someone might break a window and burgle your house, does that mean you don't lock your door?
 
-The current state of information security, across the board, is not just bad, but absurd--clown at the circus ridiculous. It's five year olds building sand castles and expecting to repulse the Mongol hordes.
+The current state of information security, across the board, is not just bad, but absurd-clown-at-the-circus ridiculous. It's five year olds building sand castles and expecting to repulse the Mongol hordes.
 
 Assuming this naturally-occurring phenomenon is an unavoidable bug in the cyber domain would be a mistake. Economic and political incentives have built a world where everything is absurdly broken.
 
@@ -43,7 +43,7 @@ We must be that force. We must place renewed focus on playing defense, if we are
 
 It won't be easy. The correct answer to incompetence and malevolence is not more incompetence and malevolence, but to get in the trenches and do the work. We must battle incompetence with competence, expose malevolence, and hold the powerful accountable to the people.
 
-This answer frustrates policymakers, who know that sprawling government bureaucracy consists of nothing more than incompetence and malevolence. Worse, political leaders who lack technical chops--most of them--find this permanent state of uncertainty unacceptable, maddening, even. Yet this is the world we now live in.
+This answer frustrates policymakers, who know that sprawling government bureaucracy consists of nothing more than incompetence and malevolence. Worse, political leaders who lack technical chops -- most of them -- find this permanent state of uncertainty unacceptable, maddening, even. Yet this is the world we now live in.
 
 Humanity has lurched onto the cyber domain, and the abrupt change of scenery is thrilling, but also awesome and terrifying. People are scared. They want surety, they want to be safe and protected.
 

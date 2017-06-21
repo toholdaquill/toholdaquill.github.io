@@ -18,13 +18,13 @@ A crude statement of the obvious that no longer rings true. The personal firearm
 
 Meatspace toys like knives and guns are worthless on the cyber domain, where we all now live. Today power emanates from the barrel of security flaws.
 
-Muscle, bronze, steel, gunpowder--all have had their day to shine as weapons of coercion. The eternal struggle of human beings to oppress and enslave each other is no new thing under the sun.
+Muscle, bronze, steel, gunpowder -- all have had their day to shine as weapons of coercion. The eternal struggle of human beings to oppress and enslave each other is no new thing under the sun.
 
-Just as the phalanx and the machine gun and the bulletproof vest disrupt and redistribute political power, each in its own way, so too do weapons of the cyber domain--weapons far more subtle, but also more powerful, than anything Mao could have imagined.
+Just as the phalanx and the machine gun and the bulletproof vest disrupt and redistribute political power, each in its own way, so too do weapons of the cyber domain -- weapons far more subtle, but also more powerful, than anything Mao could have imagined.
 
 A new form of power has arisen, in a new realm, where the world becomes knowledge, knowledge is power, and power corrupts.
 
-Welcome to the cyberz.
+Welcome to the cyber domain.
 
 Here security flaws are the dominant weapon. Instead of Genghis Khan and his army appearing before the gates of Samarkand to destroy that imperial city and kill and enslave its people, today's conquering hordes swarm the electromagnetic spectrum, riding fiber optic cables to plunder and ravage at only a fraction less than the speed of light.
 

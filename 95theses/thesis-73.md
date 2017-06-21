@@ -14,7 +14,7 @@ ostracizing the secret police will deprive them of the tech talent they need
 
 Spies are human garbage.
 
-The enduring popularity of espionage as a form of employment for otherwise intelligent individuals--an employment that inevitably destroys their morals, bloodies their hands, and turns them into human vermin little better than the dog turd you and I scrape off our shoes--is made possible in large part by the mystique and glamour of the profession, a glamour that could not be further from the truth.
+The enduring popularity of espionage as a form of employment for otherwise intelligent individuals -- an employment that inevitably destroys their morals, bloodies their hands, and turns them into human vermin little better than the dog turd you and I scrape off our shoes -- is made possible in large part by the mystique and glamour of the profession, a glamour that could not be further from the truth.
 
 For this I blame James Bond.
 
@@ -38,7 +38,7 @@ So the next time a spy movie comes out that glorifies these Top Secret criminals
 
 Do your bit. Know someone who’s being recruited by the CIA or NSA? Ostracize them. Refuse to have anything to do with them. Make it clear to them that if they accept the job offer, you will cut them off like a boil.
 
-Mystique and glamor--prestige, even--are things that you and I create by our acceptance of them. We can destroy that mystique simply by an act of collective will. Turn the glamor into disgust and loathing. [It’s worked for anti-fur campaigners.](http://www.glamourmagazine.co.uk/article/made-in-chelsea-lucy-watson-in-peta-anti-fur-advert-2014) And the stakes here are far higher.
+Mystique and glamor -- prestige, even -- are things that you and I create by our acceptance of them. We can destroy that mystique simply by an act of collective will. Turn the glamor into disgust and loathing. [It’s worked for anti-fur campaigners.](http://www.glamourmagazine.co.uk/article/made-in-chelsea-lucy-watson-in-peta-anti-fur-advert-2014) And the stakes here are far higher.
 
 \<\< theses[{{ page.thesis | minus:1 }}]  ||  theses[{{ page.thesis | plus:1 }}] \>\>
 

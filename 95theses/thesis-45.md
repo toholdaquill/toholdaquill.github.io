@@ -30,7 +30,7 @@ Taken in aggregate and analyzed, our virtual selves know more about us than *we*
 
 If we owned and controlled our virtual selves, then each of us would be no more than computer-enhanced, computer-assisted humans. Cyborgs. A happy word, so far as that goes. But this is not the case, nor likely ever to be the case.
 
-A picture of a pipe is now more real than the pipe, and a human's digital doppelganger is now more real than the person themself. When representations take on greater reality than the things themselves, and in fact begin to control their masters, then we must ask who owns the representations -- in what gallery or museum -- or frankenstein laboratory -- do we hang? Or gel in a Petri dish? And who, by extension, owns and controls us?
+When a human's representation takes on greater reality than the human themself, and in fact begins to control its master, then we must ask who owns the representation? In what gallery or museum -- or frankenstein laboratory -- do we hang, or gel in a Petri dish? And who, by extension, owns and controls us?
 
 The answer is unpleasant. Governments and corporations collect, store, analyze and control our virtual selves in order to modify our conduct, at scale, for profit, political power, sometimes both. Increased self-knowledge comes with a painful and vicious trade-off: Others, who wish not to enhance our autonomy but to destroy it, gain knowledge of us as well.
 
