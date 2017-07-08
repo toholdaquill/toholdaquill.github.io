@@ -61,7 +61,7 @@ Our virtual selves are more real than the sacks of meat that walk the streets, a
 
 At what point does the cyborg cross over and become more machine than human? At what point do we declare human liberty dead, and gong in the dawn of neverending totalitarian dictatorship by the secret police?
 
-[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 
 <h2 id="html">see also</h2>
 

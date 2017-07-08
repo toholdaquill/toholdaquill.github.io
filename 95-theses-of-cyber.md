@@ -31,7 +31,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 3. [the human race no longer lives "in the real world." we now live online, in the cyber domain](95theses/thesis-3.html)
 
-4. Two columns of power dominate the cyber domain: mass surveillance and targeted hacking.
+4. [two columns of power dominate the cyber domain: mass surveillance and targeted hacking](95theses/thesis-4.html)
 
 5. [given a large enough set of people and a long enough span of time, power always corrupts](95theses/thesis-5.html)
 

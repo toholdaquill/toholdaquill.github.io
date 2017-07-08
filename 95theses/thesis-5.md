@@ -46,5 +46,5 @@ This is a statement of pure human nature, and the collective, unconscious wish o
 *This essay was first published in 2005.*
 
 
-\<\< theses[{{ page.thesis | minus:1 }}]  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 
