@@ -14,7 +14,7 @@ two columns of power dominate the cyber domain: mass surveillance and targeted h
 
 Who wins on the internet?
 
-In any field of human strife, we must look for the high ground. Warfare in days of old fought always to seize and hold hills, mountains, points of higher elevation. Why? Because fortune favors those who have gravity on their side. Infantry, cavalry, and artillery all benefit from higher elevation.
+In any field of human strife, we must look for the high ground. Warmakers in days of old fought always to seize and hold hills, mountains, points of higher elevation. Why? Because fortune favors those who have gravity on their side. Infantry, cavalry, and artillery all benefit from higher elevation.
 
 But consider how the airplane disrupted traditional thinking about power. What value does a castle on a mountaintop give you if your enemy can fly over and drop bombs on you? Or fire machine guns at you from the air? Or drop paratroopers behind your castle walls?
 
@@ -34,7 +34,7 @@ So who wins on the cyber domain? Where does power concentrate? We've already exa
 
 Sniff It All, Collect It All, Know It All, Process It All, Exploit It All, as the NSA likes to say.
 
-Some argue that, by some divine happenstance our just and wise overlords at the NSA who possess this power withold their smiting hand. But in the analysis of raw power at scale, the possible is the necessary. What can be, will be. Always and forever amen hallelujah.
+Some argue that, by some divine happenstance, our just and wise overlords at the NSA who possess this power withold their smiting hand. But in the analysis of raw power at scale, the possible is the necessary. What can be, will be. Always and forever amen hallelujah.
 
 The winners on the cyber domain are the feudal lords in secret agencies with the guns (or the proxy for a gun: a court order) to compel collection fo all packets on all pipes that traverse their borders.
 
@@ -42,13 +42,13 @@ Only a handful of world powers are capable of projecting such power, and the sec
 
 (When Canada's CSE shares mass surveillance data on Canadians with the NSA and FVEYES, CSE become feudal vassals to their American overlords -- and commit treason against the Canadian people.)
 
-The airplane, first conscripted in World War I because it offered better surveillance than hot-air balloons over enemy lines, soon became a weapon to kill and destroy -- its primary military mission still today.
+The airplane, first conscripted in World War I because of its superiority versus the hot-air ballon when surveilling enemy lines, soon became a weapon to kill and destroy -- its primary military mission still today. 
 
 In a similar fashion, mass surveillance collects such a detailed picture of our lives that, like air power, it is quickly becoming a weapon not of watching, but of targeting People You Don't Like (TM) for death.
 
 So let's talk about hacking. Popping someone's XP box and messing with their spreadsheets used to be about as big a deal as you could manage. But now the world is becoming information, we, the human race, are becoming information...This is what we mean when we say the human race is moving online.
 
-So hacking is now not about picking the lock on a digital file cabinet to peek at the accounting records, but about the power to see with your eyes, listen with your ears, speak with your voice -- even to silence you, if need be.
+So hacking is now not about picking the lock on a digital file cabinet for a discreet peek at the accounting records, but about the power to see with your eyes, listen with your ears, speak with your voice -- even to silence you, if need be.
 
 Pedantic types will want me to talk about violating the confidentiality, integrity, and availability of data. This is important: hacking is not about watching: it's about sabotage.
 
