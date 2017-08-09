@@ -42,7 +42,7 @@ Only a handful of world powers are capable of projecting such power, and the sec
 
 (When Canada's CSE shares mass surveillance data on Canadians with the NSA and FVEYES, CSE become feudal vassals to their American overlords -- and commit treason against the Canadian people.)
 
-The airplane, first conscripted in World War I because of its superiority versus the hot-air ballon when surveilling enemy lines, soon became a weapon to kill and destroy -- its primary military mission still today. 
+The airplane, first conscripted in World War I because of its superiority versus the hot-air balloon when surveilling enemy lines, soon became a weapon to kill and destroy -- its primary military mission still today. 
 
 In a similar fashion, mass surveillance collects such a detailed picture of our lives that, like air power, it is quickly becoming a weapon not of watching, but of targeting People You Don't Like (TM) for death.
 
