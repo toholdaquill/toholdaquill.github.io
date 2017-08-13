@@ -41,7 +41,7 @@ NSA? CIA? FBI? DEA?
 
 Secret police.
 
-\<\< theses[{{ page.thesis | minus:1 }}]  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  theses[{{ page.thesis | plus:1 }}] \>\>
 
 <h2 id="html">see also</h2>
 

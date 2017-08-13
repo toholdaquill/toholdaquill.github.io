@@ -114,7 +114,7 @@ The unthinkable can and will happen, and in our lifetimes. Power always corrupts
 The Internet is hurtling us into a new Dark Age, such as mankind has never before seen, and far worse than the one the printing press helped us escape. History, as Oswald Spengler reminds us, is a form of tragedy, and we, the last free generation, can do little more than gaze in horror as our fate approaches, powerless to stop it.
 
 
-[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  theses[{{ page.thesis | plus:1 }}] \>\>
+[\<\< theses[{{ page.thesis | minus:1 }}]](thesis-{{ page.thesis | minus:1 }}.html)  ||  [theses[{{ page.thesis | plus:1 }}] \>\>](thesis-{{ page.thesis | plus:1 }}.html)
 
 [George Orwell, "You and the Atom Bomb"](http://georgeorwellnovels.com/essays/you-and-the-atom-bomb/)
 

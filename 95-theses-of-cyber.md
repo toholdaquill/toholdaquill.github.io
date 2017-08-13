@@ -37,7 +37,7 @@ Natural laws govern the cyber domain. Laws that explain in simple terms the comp
 
 6. [technology writes constitutional law](95theses/thesis-6.html)
 
-7. Mass surveillance disrupts democracy and redistributes power to the secret police.
+7. [mass surveillance disrupts democracy and redistributes power to the secret police](95theses/thesis-7.html)
 
 8. ["intelligence community" is a euphemism for the secret police](95theses/thesis-8.html)
 
