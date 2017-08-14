@@ -1,6 +1,6 @@
 ---
 layout: thesis
-title: IC is a euphemism for the secret police
+title: the American secret police
 thesis: 8
 ---
 

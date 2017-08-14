@@ -1,6 +1,6 @@
 ---
 layout: thesis
-title: mass surveillance disrupts democracy and redistributes power to the secret police
+title: jailers gonna jail
 thesis: 7
 ---
 
@@ -8,7 +8,7 @@ thesis: 7
 
 <h2 id="html">theses[{{ page.thesis }}]</h2>
 
-jailers gonna jail
+mass surveillance disrupts democracy and redistributes power to the secret police
 
 <h2 id="html">what does this mean?</h2>
 

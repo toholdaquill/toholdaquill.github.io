@@ -8,7 +8,7 @@ thesis: 5
 
 <h2 id="html">theses[{{ page.thesis }}]</h2>
 
-given a large enough set of people and a long enough span of time, power always corrupt
+given a large enough set of people and a long enough span of time, power always corrupts
 
 <h2 id="html">what does this mean?</h2>
 
