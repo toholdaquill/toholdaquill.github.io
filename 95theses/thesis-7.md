@@ -16,13 +16,13 @@ Welcome to indefinite detention in an open-air prison.
 
 Without charge, without trial, without chance of appeal, without even benefit of counsel, you and I and the entire human race have been condemned to a lifetime of pre-crime imprisonment in a panopticon jail run by the secret police.
 
-They call this good governance. They say they want to keep us safe. But we must address mass surveillance y its true name: tyranny.
+They call this good governance. They say they want to keep us safe. But we must address mass surveillance by its true name: tyranny.
 
 To watch is to oppress. Mass surveillance swallows up every detail of our lives -- not just our emails, texts, and phone calls, but also where we go, what we do, who we talk to, who we make love to, when and where we take a shit -- a shopping list ad nauseum of the things that make us human.
 
-As our humanity -- even the possibility of political liberty -- ebbs, we must face an unpleasant truth: Mass surveillance and democracy cannot co-exist. The so-called "intelligence community," drunk on secret power, resists all attempts at democratic oversight. Today the American secret police operate outside the law, marching to a secret drummer only they can hear.
+As our humanity -- even the possibility of political liberty -- ebbs, we must face an unpleasant truth: Mass surveillance and democracy cannot co-exist. The so-called "intelligence community," drunk on secret power, resists all attempts at democratic oversight. Today the American secret police operate outside the law.
 
-Our current system of government is no longer a republic, or representative democracy, but a totalitarian dictatorship run by the secret police, with a thin veneer of puppet show to keep the plebs grinding away at their meaningless jobs in a futile attempt to pay down their credit card debt.
+Our current system of government is no longer a republic, or representative democracy, but a totalitarian dictatorship run by the secret police, with a thin veneer of puppet show "let's pretend to have elections and vote" to keep the plebs grinding away at their meaningless jobs in a futile attempt to pay down their credit card debt.
 
 This tyranny exists not to keep us safe -- if by "us" you mean the vast majority of Americans. As the protest chant puts it: Who do you serve? Who do you protect?
 
